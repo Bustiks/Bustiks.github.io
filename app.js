@@ -1,3 +1,6 @@
+let tg = window.Telegram.WebApp;
+tg.expand()
+
 document.getElementById("dalee").addEventListener("click", function() {
     // Получаем значения полей
     var emailValue = document.getElementById("email").value;
