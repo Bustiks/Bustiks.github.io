@@ -9,8 +9,6 @@ body {
 .conteiner{
     max-width: 390px;
     height: 650px;
-    display: flex;
-    justify-content: center;
 }
 
 .icon{
