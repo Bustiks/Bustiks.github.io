@@ -8,5 +8,5 @@ function changeText() {
   }
 
 document.getElementById("otprav").addEventListener("click", function(){
-  window.location.href = "/verefsite/finishHTML/finish.html";
+  window.location.href = "/Bustiks.github.io/verefsite/finishHTML/finish.html";
 });
